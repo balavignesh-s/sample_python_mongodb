@@ -1,4 +1,4 @@
-build_image: drydock/u12pytall:tip
+build_image: drydock/u14pyt:tip
 language: python
 
 python:
